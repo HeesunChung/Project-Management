@@ -26,7 +26,7 @@ In order to layout and organize the overall flow of the network, a workflow is n
 
 | ![](https://raw.githubusercontent.com/OREL-group/Project-Management/refs/heads/main/FINAL_PAPERS/riedel_jimmy_images/workflow.png) | 
 | :--: |
-| <b>Workflow.</b>|
+| <b>ScamBuster's Workflow</b>|
 
 #### Roadmap:
 
@@ -37,7 +37,7 @@ The last phase is major expansion within the life of the project. There are many
 
 | ![](https://raw.githubusercontent.com/OREL-group/Project-Management/refs/heads/main/FINAL_PAPERS/riedel_jimmy_images/roadmap.png) | 
 | :--: |
-| <b>Roadmap</b>|
+| <b>ScamBuster's Roadmap</b>|
 
 #### Community Model:
 
